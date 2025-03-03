@@ -1,1 +1,110 @@
+{
+  "domain": "trumpstellar.digital",
+  "assets": [
+    {
+      "code": "WBTC",
+      "issuer": "GC5XWNULFN7JNSYZGANQUCBGD7QIO2CCOU4IDH6B3A2B7TVOMMVARY2R",
+      "name": "WBTC",
+      "desc": "WBTC is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WBTC is 30B tokens only",
+      "image": "https://trumpstellar.digital/WBTC.png"
+    },
+    {
+      "code": "WETH",
+      "issuer": "GBY7PQN7NYEGJ46P3KJWFBS6XL5QXV3MROLHW7CL4VYA65BAX75SWELO",
+      "name": "WETH",
+      "desc": "WETH is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WETH is 30B tokens only",
+      "image": "https://trumpstellar.digital/WETH.png"
+    },
+    {
+      "code": "WXRP",
+      "issuer": "GAWJ7ANHRGMJQB26W3CW5PCPHYYOGYNSU6X24FXOF2WACU24KPJNNHHS",
+      "name": "WXRP",
+      "desc": "WXRP is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WXRP is 30B tokens only",
+      "image": "https://trumpstellar.digital/WXRP.png"
+    },
+    {
+      "code": "WBNB",
+      "issuer": "GBETSR2YGULH4U6ZKNW54VS6XT4TC43MORV3TBVWM5A45LQVXBXNSZXJ",
+      "name": "WBNB",
+      "desc": "WBNB is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WBNB is 30B tokens only",
+      "image": "https://trumpstellar.digital/WBNB.png"
+    },
+    {
+      "code": "WUSDT",
+      "issuer": "GDT3KCEC67PKYGIOTSINZF3DU3FGK2WHCWZ776NFZKSLO66HIMLF4G3E",
+      "name": "WUSDT",
+      "desc": "WUSDT is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WUSDT is 30B tokens only",
+      "image": "https://trumpstellar.digital/WUSDT.png"
+    },
+    {
+      "code": "WSOL",
+      "issuer": "GBCVFGB3OBKF2BB6RINBA777YOWVA4H6H3DQRDYOPCPWJYW3NQ3XB4N7",
+      "name": "WSOL",
+      "desc": "WSOL is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WSOL is 30B tokens only",
+      "image": "https://trumpstellar.digital/WSOL.png"
+    },
+    {
+      "code": "WDOGE",
+      "issuer": "GCYCGV2ZMZNOHSI4HUYQSSZTWE37YEK3JNWBBUFNMPYT4ULSNULKR2L2",
+      "name": "WDOGE",
+      "desc": "WDOGE is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WDOGE is 30B tokens only",
+      "image": "https://trumpstellar.digital/WDOGE.png"
+    },
+    {
+      "code": "WADA",
+      "issuer": "GADDLSREE2WZ5GUU2YXVVQK24L353WHP3ROQYW5K6JEO4RFSFVGQXDIR",
+      "name": "WADA",
+      "desc": "WADA is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WADA is 30B tokens only",
+      "image": "https://trumpstellar.digital/WADA.png"
+    },
+    {
+      "code": "WSTETH",
+      "issuer": "GDXFJ2NGO52AQF645IGDTGZJKKWD55HHZAHHTZMUL56D2PCXSLUTUASA",
+      "name": "WSTETH",
+      "desc": "WSTETH is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WSTETH is 30B tokens only",
+      "image": "https://trumpstellar.digital/WSTETH.png"
+    },
+    {
+      "code": "WEETH",
+      "issuer": "GCQGZ36BEMW6ZQNRTR7AAXGVZKPPZHBGPJ7AMS73ZBSLLMPXHPQPEDDE",
+      "name": "WEETH",
+      "desc": "WEETH is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WEETH is 30B tokens only",
+      "image": "https://trumpstellar.digital/WEETH.png"
+    },
+    {
+      "code": "TRUMP",
+      "issuer": "GBEQOYSTKCZAM5VAKVLSO2II2XGEGFNOAMAUNCA6LQNWKDRRIRGTLLEO",
+      "name": "TRUMP",
+      "desc": "TRUMP is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of TRUMP is 30B tokens only",
+      "image": "https://trumpstellar.digital/TRUMP.png"
+    },
+    {
+      "code": "MELANIA",
+      "issuer": "GCEE7ROAPWZLX4LQX3DSTBLKPTCNEWYNHN37RMYTOZHLASZ2IJDEVAUI",
+      "name": "MELANIA",
+      "desc": "MELANIA is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of MELANIA is 30B tokens only",
+      "image": "https://trumpstellar.digital/MELANIA.png"
+    },
+    {
+      "code": "WTRUMP",
+      "issuer": "GBMMBYN67ZVV77WKYZLMJPFVLPRGIKYVWXGVZNA5IUIQQSRVCPTQFUAX",
+      "name": "WTRUMP",
+      "desc": "WTRUMP is a blockchain asset on the Stellar network by Trump Stellar Digital, designed for innovation and entertainment.",
+      "conditions": "Maximum supply of WTRUMP is 30B tokens only",
+      "image": "https://trumpstellar.digital/WTRUMP.png"
+    }
+  ]
+}
 
